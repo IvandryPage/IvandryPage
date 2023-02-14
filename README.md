@@ -4,9 +4,8 @@ Welcome, <br> I'm Ivandry
 Freelancer - Programmer - Content Creator
 -----------------------
 
-*   🌍  I'm based in Indonesia
 *   🧠  I'm learning .NET and Unity
-*   🤝  I'm open to collaborating on any engaging projects within the scope of my capabilities
+*   🤝  I'm open to collaborating on any projects within the scope of my capabilities
 *   ⚡  I'm willing to expand my knowledge and contributing to practical projects
 
 ### Knowledges 
@@ -36,10 +35,22 @@ Freelancer - Programmer - Content Creator
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
   </a>
 </p>
-                    
+
+### Reach me out on 
+
+<p align="left">    
+  <a href="http://www.instagram.com/IvandryPage" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  </a>
+  &nbsp;
+  <a href="https://www.twitter.com/IvandryPage" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  </a>
+</p>
+
 <br>
 <details>
-  <summary>My Github Statistics</summary>
+  <summary><b>My Github Statistics</b></summary>
   <br>
 
   <a href="http://www.github.com/IvandryPage">
