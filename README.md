@@ -4,7 +4,7 @@ Welcome, <br> I'm Ivandry
 Freelancer - Programmer - Content Creator
 -----------------------
 
-*   🧠  I'm learning .NET and Unity
+*   🧠  I'm learning ASP.NET Core
 *   🤝  I'm open to collaborating on any projects within the scope of my capabilities
 *   ⚡  I'm willing to expand my knowledge and contributing to practical projects
 
