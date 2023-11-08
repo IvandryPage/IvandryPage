@@ -1,4 +1,4 @@
-Welcome, <br> I'm Ivandry
+Welcome, <br> I'm Galang Ivandry
 =======================
 
 Freelancer - Programmer - Content Creator
