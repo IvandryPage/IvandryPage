@@ -1,7 +1,7 @@
-Welcome, <br> I'm Galang Ivandry
+Hai, <br> I'm Galang Ivandry
 =======================
 
-Freelancer - Programmer - Content Creator
+Programming Enthusiast
 -----------------------
 
 *   🧠  I'm learning ASP.NET Core
