@@ -4,10 +4,6 @@ Hai, <br> I'm Galang Ivandry
 Programming Enthusiast
 -----------------------
 
-*   🧠  I'm learning ASP.NET Core
-*   🤝  I'm open to collaborating on any projects within the scope of my capabilities
-*   ⚡  I'm willing to expand my knowledge and contributing to practical projects
-
 ### Knowledges 
 
 <p align="left">
