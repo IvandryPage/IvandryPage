@@ -1,7 +1,7 @@
-Hai, <br> I'm Galang Ivandry
+Hi, <br> I'm Galang
 =======================
 
-Programming Enthusiast
+Information Technology Enthusiast
 -----------------------
 
 ### Knowledges 
