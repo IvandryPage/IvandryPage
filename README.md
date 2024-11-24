@@ -1,7 +1,7 @@
-Hi, <br> I'm Galang
+Hi, <br> I'm Galang Ivandry. <br> You can call me Ivan
 =======================
 
-Information Technology Enthusiast
+Information System Student at Universitas Pembangunan Nasional Veteran Yogyakarta
 -----------------------
 
 ### Knowledges 
