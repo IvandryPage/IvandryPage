@@ -40,7 +40,8 @@ Information System Student at Universitas Pembangunan Nasional Veteran Yogyakart
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
   </a>
 </p>
-
+### Buy me coffee
+<a href="https://saweria.co/ivandrypage"><p>Donations on Saweria</p></a>
 ### Reach me out on 
 
 <p align="left">    
