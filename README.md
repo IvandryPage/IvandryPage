@@ -11,7 +11,7 @@
 - ✅ **[Chronicle Log](https://github.com/IvandryPage/chronicle-log):** C# WPF Note-Taking App
 - 🎯 **[Pixelated](https://github.com/IvandryPage/pixelated):** My Game Dev Journey
 
-## 🌱 Currently Learning : SFML Graphics && C++ Game Development
+**🌱 Currently Learning : SFML Graphics && C++ Game Development**
 
 ---
 
