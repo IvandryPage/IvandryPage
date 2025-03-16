@@ -77,6 +77,4 @@
   </a>
 </details>
 
-### Buy me coffee
-
-<a href="https://saweria.co/ivandrypage"><p>Donations on Saweria</p></a>
+*[Buy me coffee]*(https://saweria.co/ivandrypage)
