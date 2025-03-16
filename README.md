@@ -77,4 +77,4 @@
   </a>
 </details>
 
-*[Buy me coffee]*(https://saweria.co/ivandrypage)
+**[Buy me coffee](https://saweria.co/ivandrypage)**
