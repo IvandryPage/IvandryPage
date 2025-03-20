@@ -2,7 +2,7 @@
 
 **Information System Student at Universitas Pembangunan Nasional Veteran Yogyakarta** <br>
 🎮 Aspiring C++ Game Developer  
-🔧 Building with SFML and Unreal Engine--coming in the future!
+🔧 Building with SFML and Unreal Engine--coming in the future! <br>
 📚 Documenting my game dev journey in **[Pixelated](https://github.com/IvandryPage/recrafted)**
 
 ## 🚀 Current Projects
