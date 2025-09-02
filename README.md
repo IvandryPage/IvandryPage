@@ -1,7 +1,7 @@
-<table>
+<table border="0">
     <tr>
     <td style="text-align: center;" colspan="2">
-        <h1> Hi, I'm Galang Ivandry </h1>
+        <h1 align="center"> Hi, I'm Galang Ivandry </h1>
         <div align="center">
             <a href="https://instagram.com/ivandrypage">
                 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
@@ -45,7 +45,7 @@
 
 <div align="center">
   <h1>🏆 GitHub Stats: </h1>
-  <table align="center">
+  <table border="0" align="center">
     <tr>
       <td>
         <img src="https://nirzak-streak-stats.vercel.app/?user=IvandryPage&theme=radical&hide_border=false"/>
