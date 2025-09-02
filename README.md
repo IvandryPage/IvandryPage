@@ -1,80 +1,63 @@
-# Hi, I'm Ivandry
+<table>
+    <tr>
+    <td style="text-align: center;" colspan="2">
+        <h1> Hi, I'm Galang Ivandry </h1>
+        <div align="center">
+            <a href="https://instagram.com/ivandrypage">
+                <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+            </a>
+            <a href="https://linkedin.com/in/ivandrypage">
+                <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/> 
+            </a>
+            <a href="https://x.com/ivandrypage">
+                <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/>
+            </a>
+            <a href="https://buymeacoffee.com/ivandrypage">
+                <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black"/>
+            </a>
+        </div>
+    </td>
+    </tr>
+    <tr>
+        <td>
+            <p>
+                🎓 <b>Information Systems Student</b> at UPN "Veteran" Yogyakarta<br>
+                🧪 <b>Laboratory Assistant</b> - mentoring and supporting hands-on learning<br>
+                🎮 <b>Aspiring C++ Game Developer</b> - building games with C++, perhaps Unreal Engine & SFML<br>
+                💻 <b>Aspiring Front-End Developer</b> - exploring React, HTML, and CSS<br>
+            </p>
+            <p>
+                📚 Documenting my game dev journey in <strong><a href="https://github.com/IvandryPage/pixelated">Pixelated</a></strong>
+            </p>
+        </td>
+        <td>
+            <img src="https://quotes-github-readme.vercel.app/api?quote=Everything+Vows+Aspire,+Desire+Ablaze.+Ad+Maiora+Natus+Sum&type=horverticalizontal&theme=radical&author=Ivandry"/>
+        </td>
+    </tr>
+</table>
 
-**Information System Student at Universitas Pembangunan Nasional Veteran Yogyakarta** <br>
-🎮 Aspiring C++ Game Developer  
-🔧 Building with SFML and Unreal Engine--coming in the future! <br>
-📚 Documenting my game dev journey in **[Pixelated](https://github.com/IvandryPage/pixelated)**
+<h1 align="center"> 💻 Tech Stack: </h1>
 
-## 🚀 Current Projects
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
 
-- 🛠️ **[Recrafted](https://github.com/IvandryPage/recrafted):** Storytelling Terminal Game
-- ✅ **[Chronicle Log](https://github.com/IvandryPage/chronicle-log):** C# WPF Note-Taking App
-- 🎯 **[Pixelated](https://github.com/IvandryPage/pixelated):** My Game Dev Journey
-
-**🌱 Currently Learning : SFML Graphics && C++ Game Development**
-
----
-
-### Knowledges
-
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-  </a>
-
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
-
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  </a>
-</p>
-
-### Reach me out on
-
-<p align="left">    
-  <a href="http://www.instagram.com/ivandrypage" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://www.linkedin.com/in/galangivandry" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
-  </a>
-</p>
-
-<br>
-<div>
-  <p><b>My Github Statistics</b></p>
-  <br>
-
-  <a href="http://www.github.com/IvandryPage">
-    <img src="https://github-readme-stats.vercel.app/api?username=IvandryPage&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="GitHub Statistics" />
-  </a>
-  </a>
-</details>
-
-**[Buy me coffee](https://saweria.co/ivandrypage)**
+<div align="center">
+  <h1>🏆 GitHub Stats: </h1>
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=IvandryPage&theme=radical&hide_border=false"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvandryPage&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+      </td>
+    </tr>
+    <tr>
+        <td  colspan="2">
+            <img src="https://github-profile-trophy.vercel.app/?username=IvandryPage&theme=radical&no-frame=true&no-bg=false&margin-w=4"/>
+        </td>
+    </tr>
+  </table>
+</div>
