@@ -54,10 +54,5 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvandryPage&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
       </td>
     </tr>
-    <tr>
-        <td  colspan="2">
-            <img src="https://github-profile-trophy.vercel.app/?username=IvandryPage&theme=radical&no-frame=true&no-bg=false&margin-w=4"/>
-        </td>
-    </tr>
   </table>
 </div>
