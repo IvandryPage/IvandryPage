@@ -57,4 +57,4 @@
   </table>
 </div>
 
-<img src="https://raw.githubusercontent.com/Ivandrypage/Ivandrypage/output/snake.svg" alt="Snake" />
+![github contribution grid snake](https://raw.githubusercontent.com/IvandryPage/IvandryPage/output/snake.svg)
