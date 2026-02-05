@@ -19,7 +19,7 @@
             <a href="https://x.com/ivandrypage">
                 <img src="https://img.shields.io/badge/X-black?style=flat&logo=X&logoColor=white"/>
             </a>
-            <a href="https://buymeacoffee.com/ivandrypage">
+            <a href="https://saweria.com/ivandrypage">
                 <img src="https://img.shields.io/badge/COFFEE-black?style=flat&logo=buy-me-a-coffee&logoColor=white"/>
             </a>
         </div>
@@ -30,7 +30,7 @@
             <p>
                 <b>SYSTEMS & DEVELOPMENT</b><br>
                 // Information Systems Student | UPN "Veteran" Yogyakarta<br>
-                // Laboratory Assistant | Mentoring DSA & Web Programming<br>
+                // Laboratory Assistant | Mentoring Fundamental Programming, DSA, and Web Programming<br>
                 // Game Systems | C++, SFML, ECS Architecture<br>
                 // Front-End | Next.js, TypeScript, Tailwind<br>
             </p>
