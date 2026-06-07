@@ -28,17 +28,17 @@
     <tr>
         <td width="65%">
             <p>
-                <b>BACKGROUND PROFILE</b><br>
+                <b>PROFILE</b><br>
                 // Information Systems Student | UPN "Veteran" Yogyakarta | GPA 3.92 / 4.00<br>
-                // Laboratory Assistant | Mentoring Fundamental Programming, DSA, and Web Programming<br>
+                // Laboratory Assistant | Mentoring Programming Fundamentals, DSA, and Web Programming<br>
                 // Game Development | Unity, C#, C++, SFML, ECS Architecture<br>
-                // Front-End | Next.js, TypeScript, Tailwind<br>
+                // Front-End Development | Next.js, TypeScript, Tailwind<br>
             </p>
             <p>
-                <b>IN PURSUIT</b><br>
+                <b>CURRENTLY</b><br>
+                ✦ <i>Seeking Internship Opportunities</i>
                 ✦ <i>Preparing for GEMASTIK 2026</i>
                 ✦ <i>Mentoring Frontend Developers at Code124</i>
-                ✦ <i>Looking for Internship</i>
             </p>
         </td>
         <td width="35%" align="right">
