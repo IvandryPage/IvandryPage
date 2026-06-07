@@ -26,20 +26,22 @@
     </td>
     </tr>
     <tr>
-        <td width="55%">
+        <td width="65%">
             <p>
-                <b>SYSTEMS & DEVELOPMENT</b><br>
-                // Information Systems Student | UPN "Veteran" Yogyakarta<br>
+                <b>BACKGROUND PROFILE</b><br>
+                // Information Systems Student | UPN "Veteran" Yogyakarta | GPA 3.92 / 4.00<br>
                 // Laboratory Assistant | Mentoring Fundamental Programming, DSA, and Web Programming<br>
-                // Game Systems | Unity, C#, C++, SFML, ECS Architecture<br>
+                // Game Development | Unity, C#, C++, SFML, ECS Architecture<br>
                 // Front-End | Next.js, TypeScript, Tailwind<br>
             </p>
             <p>
-                <b>CURRENT PROJECT</b><br>
-                ✦ <i>Documenting C++ evolution in <strong><a href="https://github.com/IvandryPage/pixelated">Pixelated</a></strong></i>
+                <b>IN PURSUIT</b><br>
+                ✦ <i>Preparing for GEMASTIK 2026</i>
+                ✦ <i>Mentoring Frontend Developers at Code124</i>
+                ✦ <i>Looking for Internship</i>
             </p>
         </td>
-        <td width="45%" align="right">
+        <td width="35%" align="right">
             <img src="https://quotes-github-readme.vercel.app/api?quote=Everything+Vows+Aspire,+Desire+Ablaze.+Ad+Maiora+Natus+Sum&type=horizontal&theme=radical&author=Ivandry"/>
         </td>
     </tr>
