@@ -36,9 +36,9 @@
             </p>
             <p>
                 <b>CURRENTLY</b><br>
-                ✦ <i>Seeking Internship Opportunities</i>
-                ✦ <i>Preparing for GEMASTIK 2026</i>
-                ✦ <i>Mentoring Frontend Developers at Code124</i>
+                ✦ <i>Seeking Internship Opportunities</i> <br>
+                ✦ <i>Preparing for GEMASTIK 2026</i><br>
+                ✦ <i>Mentoring Frontend Developers at Code124</i><br>
             </p>
         </td>
         <td width="35%" align="right">
