@@ -31,7 +31,7 @@
                 <b>SYSTEMS & DEVELOPMENT</b><br>
                 // Information Systems Student | UPN "Veteran" Yogyakarta<br>
                 // Laboratory Assistant | Mentoring Fundamental Programming, DSA, and Web Programming<br>
-                // Game Systems | C++, SFML, ECS Architecture<br>
+                // Game Systems | Unity, C#, C++, SFML, ECS Architecture<br>
                 // Front-End | Next.js, TypeScript, Tailwind<br>
             </p>
             <p>
@@ -50,6 +50,7 @@
 <h3 align="center"> CORE TECHNOLOGIES </h3>
 
 <div align="center">
+    <img src="https://img.shields.io/badge/UNITY-black?style=for-the-badge&logo=unity&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/TYPESCRIPT-black?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -61,8 +62,8 @@
     <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/FIGMA-black?style=for-the-badge&logo=figma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ASEPRITE-black?style=for-the-badge&logo=Aseprite&logoColor=white"/>
     <img src="https://img.shields.io/badge/PHOTOSHOP-black?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ASEPRITE-black?style=for-the-badge&logo=Aseprite&logoColor=white"/>
     <img src="https://img.shields.io/badge/BLENDER-black?style=for-the-badge&logo=blender&logoColor=white"/>
 </div>
 
@@ -70,7 +71,5 @@
 
 <div align="center">
   <h3> SYSTEM ANALYTICS </h3>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=IvandryPage&theme=radical&hide_border=false"/>
-  <br>
   <img src="https://raw.githubusercontent.com/IvandryPage/IvandryPage/output/snake.svg" width="100%"/>
 </div>
