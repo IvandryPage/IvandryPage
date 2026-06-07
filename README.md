@@ -49,7 +49,7 @@
 
 <br>
 
-<h3 align="center"> CORE TECHNOLOGIES </h3>
+<h3 align="center"> TOOLS OF THE TRADE </h3>
 
 <div align="center">
     <img src="https://img.shields.io/badge/UNITY-black?style=for-the-badge&logo=unity&logoColor=white"/>
@@ -72,6 +72,10 @@
 <br>
 
 <div align="center">
-  <h3> SYSTEM ANALYTICS </h3>
+  <h3> DEVELOPER REPORTS </h3>
+  <img src="https://streak-stats.demolab.com?user=IvandryPage&theme=github-dark-blue&hide_border=true" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IvandryPage&theme=github-dark" />
+  <br>
   <img src="https://raw.githubusercontent.com/IvandryPage/IvandryPage/output/snake.svg" width="100%"/>
 </div>
