@@ -37,7 +37,6 @@
             <p>
                 <b>CURRENTLY</b><br>
                 ✦ <i>Seeking Internship Opportunities</i> <br>
-                ✦ <i>Preparing for GEMASTIK 2026</i><br>
                 ✦ <i>Mentoring Frontend Developers at Code124</i><br>
             </p>
         </td>
